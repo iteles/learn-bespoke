@@ -20,3 +20,9 @@ After you've run `yo bespoke`, the generator will take you through a number of q
 ![learn-bespoke-generator-screen](https://cloud.githubusercontent.com/assets/4185328/6004729/c48bc7be-aafc-11e4-9843-ffa7b599a3be.png)
 
 At this point, you should be able to set up a local server to display your template presentation by typing `gulp serve` into your command line. If this doesn't work, try running `npm install && bower install` first before trying `gulp serve` again.
+
+####Changing themes
+There are many themes a number of different themes [available through npm](https://www.npmjs.com/browse/keyword/bespoke-theme). Let's choose to use the [Nebula theme](https://www.npmjs.com/package/bespoke-theme-nebula) (though of course you can choose any one you like).
+
+Firstly, you have to install the theme package using npm on the command line - make sure you're in the directory that you are building your presentation in.
+`npm install bespoke-theme-nebula`
