@@ -1,15 +1,23 @@
-#Using Bespoke.js, a presentation micro-framework
-
+#How to use Bespoke.js, a presentation micro-framework
+![Presentations are totally important](http://peerates.org/sites/default/files/75450.strip_.gif)
 ##What is Bespoke.js?
+If you've ever been to a conference or talk where the speaker's slides show up in a browser instead of using Powerpoint or Keynote, they're probably using a presentation framework (or a new fangled web app).  
 
+  [Bespoke.js](https://github.com/markdalgleish/bespoke.js) is a presentation micro-framework written by [Mark Dalgleish](http://www.twitter.com/markdalgleish).
+
+There are [lots of different ones to choose from](http://devzum.com/2014/11/28/10-best-javascript-and-html5-presentation-frameworks/), but Bespoke is one of the most interesting because it was designed specifically to foster a community based on plugins.
+
+> The core library sets up the presentation, provides a simple control API and manages events. Any other functionality is implemented as a plugin.
 
 ##Why use it?
+//TODO
 
 ##Setting up Bespoke.js
 
 ###Using the Yeoman Generator
-![smurf_sleepy](https://cloud.githubusercontent.com/assets/4185328/6004739/d98d407a-aafc-11e4-9521-c82fe8e51c97.jpg)
-The _fastest_ (not specifically the best) way to set up a Bespoke.js presentation is to use [@markdalgleish](https://twitter.com/markdalgleish)'s [Bespoke.js Generator](https://github.com/markdalgleish/generator-bespoke).  
+<img align="left" src="https://cloud.githubusercontent.com/assets/4185328/6004739/d98d407a-aafc-11e4-9521-c82fe8e51c97.jpg">
+
+The _fastest_ (not specifically the best) way to set up a Bespoke.js presentation is to use [@markdalgleish](https://twitter.com/markdalgleish)'s [Bespoke.js Generator](https://github.com/markdalgleish/generator-bespoke) (this is a [Yeoman generator](http://yeoman.io/)).  
 
 Assuming you have [Node.js](http://nodejs.org/) and [npm](http://blog.npmjs.org/post/85484771375/how-to-install-npm), you should then make sure you have [Bower](http://bower.io/) and [Gulp](http://gulpjs.com/):
 `npm install -g bower`
