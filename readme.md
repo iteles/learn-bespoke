@@ -1,4 +1,4 @@
-#How to use Bespoke.js, a presentation micro-framework
+#How to use Bespoke.js, a presentation micro-framework [Work in progress!]
 ![Presentations are totally important](http://peerates.org/sites/default/files/75450.strip_.gif)
 ##What is Bespoke.js?
 If you've ever been to a conference or talk where the speaker's slides show up in a browser instead of using Powerpoint or Keynote, they're probably using a presentation framework (or a new fangled web app).  
